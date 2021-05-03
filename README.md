@@ -4,6 +4,7 @@ Any business wants to maximize the number of customers. To achieve this goal, it
 
 
 Access jupyter notebook: https://edugvs.github.io/Project02-Customer-Churn-Analysis/index.html
+
 Original database on Kaggle: https://www.kaggle.com/radmirzosimov/telecom-users-dataset
 
 ![GitHub Logo](img/readme.png)
